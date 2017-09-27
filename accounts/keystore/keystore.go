@@ -33,11 +33,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-ethereum/accounts"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/event"
+	"github.com/Lopastvertoleta/go-ethereum/accounts"
+	"github.com/Lopastvertoleta/go-ethereum/common"
+	"github.com/Lopastvertoleta/go-ethereum/core/types"
+	"github.com/Lopastvertoleta/go-ethereum/crypto"
+	"github.com/Lopastvertoleta/go-ethereum/event"
 )
 
 var (

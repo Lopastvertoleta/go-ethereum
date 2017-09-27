@@ -24,14 +24,14 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/consensus/ethash"
-	"github.com/ethereum/go-ethereum/core/state"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/core/vm"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/Lopastvertoleta/go-ethereum/common"
+	"github.com/Lopastvertoleta/go-ethereum/consensus/ethash"
+	"github.com/Lopastvertoleta/go-ethereum/core/state"
+	"github.com/Lopastvertoleta/go-ethereum/core/types"
+	"github.com/Lopastvertoleta/go-ethereum/core/vm"
+	"github.com/Lopastvertoleta/go-ethereum/crypto"
+	"github.com/Lopastvertoleta/go-ethereum/ethdb"
+	"github.com/Lopastvertoleta/go-ethereum/params"
 )
 
 // newTestBlockChain creates a blockchain without validation.

@@ -24,12 +24,12 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/contracts/ens"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/swarm/network"
-	"github.com/ethereum/go-ethereum/swarm/services/swap"
-	"github.com/ethereum/go-ethereum/swarm/storage"
+	"github.com/Lopastvertoleta/go-ethereum/common"
+	"github.com/Lopastvertoleta/go-ethereum/contracts/ens"
+	"github.com/Lopastvertoleta/go-ethereum/crypto"
+	"github.com/Lopastvertoleta/go-ethereum/swarm/network"
+	"github.com/Lopastvertoleta/go-ethereum/swarm/services/swap"
+	"github.com/Lopastvertoleta/go-ethereum/swarm/storage"
 )
 
 const (

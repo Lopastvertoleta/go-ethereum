@@ -23,7 +23,7 @@ import (
 	"math/big"
 
 	ethereum "github.com/ethereum/go-ethereum"
-	"github.com/ethereum/go-ethereum/common"
+	"github.com/Lopastvertoleta/go-ethereum/common"
 )
 
 // Subscription represents an event subscription where events are

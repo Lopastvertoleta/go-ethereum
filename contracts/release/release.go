@@ -25,15 +25,15 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ethereum/go-ethereum/accounts/abi/bind"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/eth"
-	"github.com/ethereum/go-ethereum/internal/ethapi"
-	"github.com/ethereum/go-ethereum/les"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/node"
-	"github.com/ethereum/go-ethereum/p2p"
-	"github.com/ethereum/go-ethereum/rpc"
+	"github.com/Lopastvertoleta/go-ethereum/accounts/abi/bind"
+	"github.com/Lopastvertoleta/go-ethereum/common"
+	"github.com/Lopastvertoleta/go-ethereum/eth"
+	"github.com/Lopastvertoleta/go-ethereum/internal/ethapi"
+	"github.com/Lopastvertoleta/go-ethereum/les"
+	"github.com/Lopastvertoleta/go-ethereum/log"
+	"github.com/Lopastvertoleta/go-ethereum/node"
+	"github.com/Lopastvertoleta/go-ethereum/p2p"
+	"github.com/Lopastvertoleta/go-ethereum/rpc"
 )
 
 // Interval to check for new releases

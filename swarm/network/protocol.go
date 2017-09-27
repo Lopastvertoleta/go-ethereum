@@ -37,12 +37,12 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/ethereum/go-ethereum/contracts/chequebook"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/p2p"
-	bzzswap "github.com/ethereum/go-ethereum/swarm/services/swap"
-	"github.com/ethereum/go-ethereum/swarm/services/swap/swap"
-	"github.com/ethereum/go-ethereum/swarm/storage"
+	"github.com/Lopastvertoleta/go-ethereum/contracts/chequebook"
+	"github.com/Lopastvertoleta/go-ethereum/log"
+	"github.com/Lopastvertoleta/go-ethereum/p2p"
+	bzzswap "github.com/Lopastvertoleta/go-ethereum/swarm/services/swap"
+	"github.com/Lopastvertoleta/go-ethereum/swarm/services/swap/swap"
+	"github.com/Lopastvertoleta/go-ethereum/swarm/storage"
 )
 
 const (

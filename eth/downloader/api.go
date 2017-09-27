@@ -21,8 +21,8 @@ import (
 	"sync"
 
 	ethereum "github.com/ethereum/go-ethereum"
-	"github.com/ethereum/go-ethereum/event"
-	"github.com/ethereum/go-ethereum/rpc"
+	"github.com/Lopastvertoleta/go-ethereum/event"
+	"github.com/Lopastvertoleta/go-ethereum/rpc"
 )
 
 // PublicDownloaderAPI provides an API which gives information about the current synchronisation status.
